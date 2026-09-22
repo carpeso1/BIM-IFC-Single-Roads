@@ -1,0 +1,3958 @@
+{
+  "MapBlockName": [
+    {
+      "Name": "_ClosedBlank",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "_ClosedFilled",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "_CrowsFoot-End",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "_CrowsFoot-Start",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "_None",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "_Wipeout_Circle",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "\\*Model_Space",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "\\*Paper_Space",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "\\*Paper_Space64",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AcPipes_Desagüe",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AcPipes_Interferencia",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AcPipes_Pozo\\ -\\ Registro",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AcPipes_Válvula",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AcPipes_Ventosa",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccArrow",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccSectionMark",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccSectionPntr",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccTickCircle",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccTickLine",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "AeccTickTriangle",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Benchmark",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "bound",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Catch\\ Basin",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Crest\\ Geo",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "DETALLE_ACUERDO",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Drainage\\ MH",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Drill\\ Hole",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Eje1",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Existing\\ Hyd",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Flared\\ End\\ Section\\ -\\ Plan",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Flared\\ End\\ Section\\ -\\ Profile",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "FullSuperLeftDownEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "FullSuperLeftUpEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "FullSuperRightDownEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "FullSuperRightUpEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Gas\\ Valve",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Guy\\ Pole",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "HighPoint",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Hydrant-Elevation",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Iron\\ Pin",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "LowPoint",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Marker\\ Pnt",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Profile-arrow",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Proposed\\ Hyd",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Sag\\ Geo",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Sewer\\ Manhole",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Shrub\\ 2",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Single\\ Pole\\ Sign",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "STA",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Station\\ Mark",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Storm\\ Manhole",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "SuperLeftDownEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "SuperLeftUpEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "SuperRightDownEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "SuperRightUpEmpty",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Test\\ Pit",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Tree-Deciduous",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Tree-Evergreen",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Tree\\ 6",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Utility\\ Pole",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Water\\ Shutoff",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Water\\ Valve",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    },
+    {
+      "Name": "Well",
+      "IfcExportAs": "IfcBuiltElement",
+      "Export": true
+    }
+  ],
+  "MapCADLayerName": [
+    {
+      "Name": "0",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "0_Bvia",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "A-BLDG",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "A-BLDG-FPRT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "A-BLDG-SITE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "A-BLDG-UTIL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "A-PROP-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "ABSCISADO\\ EJE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "ABSCISADO\\ EJE\\ VIA\\ PROY\\.",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_Clotoide",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_Curva",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_EXTN_tg",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_Flecha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_Trazado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_TrazadoDiscontinuo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN_TrazadoHidraulico",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-ETIQ_Clotoide",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-ETIQ_Curva",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-ETIQ_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-EXTN_Curva",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ALIN-EXTN_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-MATC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-MATC-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-MATC-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-TABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-TABL-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-TABL-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-TABL-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-TABL-TTBL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-VFRM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ANNO-VFRM-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-ABUTMENT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-DECK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-FOUNDATION",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-GENERICOBJECT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-GIRDER",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-BRDG-PIER",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-CUEN_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-CUEN_Direccion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ENLA",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ENLA_SinCodigo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ENLA_SinTrazar",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ESMT-ROAD",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ETIQ_Enlaces",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ETIQ_Formas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ETIQ_Marcas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_Desmonte",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_LineasInterseccion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_LineasProyeccion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_LineasTalud",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_Marca",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-EXPL_Terraplen",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-FORM_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-FORM_Desmonte",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-FORM_SinTrazar",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-FORM_Sombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-FORM_Terraplen",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-BNDY",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-DSPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-FPTH",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-FPTH-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-FSPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-CTCH-HDPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-HYDR-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-LCAR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-LCAR_BordeCarril",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-LCAR_Interseccion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-LMUE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-LMUE-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_AreaImpresion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_LineaSolape",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_LineaSolapeMascara",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_MarcoVisualizacion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_RejillaPrincipal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU_RejillaSecundaria",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MAQU-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MARC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MARC_Elemento",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MARC_FormaSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-MARC_SinTrazar",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-OBRA_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-OBRA_Intersecciones",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-OBRA_PKModificacion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC_Limite",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC_Servidumbre",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-ETIQ_Curva",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-ETIQ_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-SOMB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-SOMB_Limite",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PARC-SOMB_Servidumbre",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_3D",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Acuerdo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Curva",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Desfase",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_DetalleAcuerdo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Flecha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Oculto",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Rasante",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Sombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF_Terreno",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-ETIQ_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-EXTN_Acuerdo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-EXTN_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-MASA_Linea",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PERF-MASA_Sombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PLTE-VIST_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PLTE-VIST_Marca",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PLTE-VIST_Texto",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PLTE-VIST_Titulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-BNDY",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-BRNG",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-LINE-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-LOTS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-RSRV",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PROP-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PUNT_Marca",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-PUNT-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-EQLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-LEFT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-RGHT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-TICK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-CANT-VIEW-TTLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-RAIL-TURNOUT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-ASSM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-ASSM-BLIN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-ASSM-OFFS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-BRNG",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CNTR-N",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CORR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CORR-BNDY",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CORR-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-CURV",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-FEAT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-INTS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-INTS-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-LABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-LINE-EXTN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-LINK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MARK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-LINE-FREE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-LINE-OVER",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW-GRID-MAJR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW-GRID-MINR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-MASS-VIEW-TTLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-ASMC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-CURV",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-DIAG",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-GRID",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-GRID-GEOM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-GRID-MAJR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-GRID-MINR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-LABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-LINE-EXTN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-LTOF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-PARB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-PNTS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-PROJ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-PROP",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-RTOF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-STAN-GEOM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-STAN-MAJR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-STAN-MINR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-TICK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-TTLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-PROF-VIEW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SAMP",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SAMP-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SCTN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SCTN-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SCTN-VIEW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-BUFR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-DIAG",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-GRID",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-LABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-N",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-PROJ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-TICK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SECT-TTLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SELV-VIEW-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SELV-VIEW-TICK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SELV-VIEW-TITL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SELV-VIEW-TTLB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SHAP",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SHAP-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-SPIR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-STAN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-STAN-MAJR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-STAN-MINR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-TABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-ROAD-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Alineaciones",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_LineasCaracteristicas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Perfiles",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Puntos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Rasante",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Terreno",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SECC-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SOLA",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SOLA_Acometidas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SOLA_LineaParcela",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-PIPE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-PIPE-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-PROF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-STRC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-STRC-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SSWR-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-PIPE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-PIPE-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-PROF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-SCTN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-STRC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-STRC-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-TABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-STRM-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Contorno",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Cuencas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_CurvasMaestras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_CurvasNivel",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_CurvasUsuario",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Puntos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Rejilla",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Seccion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE_Triangulos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE-ETIQ_Curvas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-SUPE-ETIQ_Puntos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_Divisor",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_Separador",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_SeparadorDatos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_SombreadoDatos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_SombreadoEncabezado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_SombreadoTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_TextoDatos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_TextoEncabezado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TABL_TextoTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TINN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TINN-BNDY",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TINN-VIEW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO_Figuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO_Lineas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO_Marcas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO_Puntos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-2",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-2-Cut",
+      "IfcExportAs": "IfcEarthworksCut",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-2-Fill",
+      "IfcExportAs": "IfcEarthworksFill",
+      "Predefined Type": "Fill",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-CONT-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-CONT-TEXT-N",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-FEAT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-FINAL-M",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-FINAL-MIN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-GRAD",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-GRAD-CUTS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-GRAD-FILL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-GRAD-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MAJR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MAJR-N",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MAJTERRA",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MINR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MINR-N",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-MINTERRA",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-USER",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-WSHD",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TOPO-WSHD-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Accesorios",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Eje",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_ElementosHidromecanicos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Interferencia",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Interferencia3D",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_InterferenciaTransversal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_LineaEnergia",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_LineaHyd",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Marco",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Modelo3D",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Solido",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_Trazo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_TuberiasPresion",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE_TuberiasSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-ETIQ_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-ETIQ_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF_EstructuraSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF_TuberiaCruzada",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PERF_TuberiaSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PLAN_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PLAN_EstructuraSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PLAN_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-TUBE-PLAN_TuberiasSombreado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_AnotacionPrincipal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_AnotacionSecundaria",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_Eje",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_LineasMuestreo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_MarcasPrincipales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_MarcasSecundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_PuntoGeometriaHorizontal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_PuntoGeometriaVertical",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_RejillaPrincipal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_RejillaSecundaria",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_Titulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP_TituloEje",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Acuerdos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_BermaExteriorDcha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_BermaExteriorIzqa",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_BermaInteriorDcha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_BermaInteriorIzqa",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_CalzadaExteriorDcha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_CalzadaExteriorIzqa",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_CalzadaInteriorDcha",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_CalzadaInteriorIzqa",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Clotoides",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_CuadroTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Curvas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_DatosIncrmntlsSecciones",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_LineaReferencia",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Suavizado",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Tangentes",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_TextoTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Acuerdos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_BombeoDesvan",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_BombeoInverso",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_BombeoNormal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_CambioPK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Clotoides",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Curvas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_PeraltadaFinal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Principales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_PuntoGeometriaHorizontal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_PuntoGeometriaVertical",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_PuntosCriticos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Secciones",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Secundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_SlopeTransition",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Tangentes",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-ETIQ_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_BombeoDesvan",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_BombeoInvert",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_BombeoNormal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_CambioPK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Dif\\ max\\ de\\ pte",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Estructuras",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_PeralteFinal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Principales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_PuntoGeometriaHorizontal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_PuntoGeometriaVertical",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_PuntosCriticos",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Secciones",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Secundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISP-GUIT-MARC_Tuberias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeH",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeHAnotPrin",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeHAnotSecun",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeHMarcasPrincipales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeHMarcasSecundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeHTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeV",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeVAnotPrin",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeVAnotSecun",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeVMarcasPrincipales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeVMarcasSecundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_EjeVTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_RejillaPrincipal",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_RejillaSecundaria",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_Titulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_VerticesLM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS_VerticesRasante",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-ETIQ",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT_Borde",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT_CuadroTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT_TextoTitulo",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-ETIQ_CambioRasante",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-ETIQ_Eje",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-ETIQ_Principales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-ETIQ_Secundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-ETIQ_VerticesLM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-MARC_CambioRasante",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-MARC_Eje",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-MARC_Principales",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-MARC_Secundarias",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-VISS-GUIT-MARC_VerticesLM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-APPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-APPT-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-FITT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-FITT-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-PIPE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-PIPE-PATT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-PROF",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-SCTN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-TABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "C-WATR-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Defpoints",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "EJE_VIA",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "EJE\\ VIA\\ PROY\\.",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "ETQ\\.\\ PI",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Otros",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "PIH",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "PTOS\\ GEOMETRICOS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+  "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Base",
+  "IfcExportAs": "IfcCourse.BASE",
+  "Export": true
+},
+{
+  "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ SubBase",
+  "IfcExportAs": "IfcCourse.SUBBASE",
+  "Export": true
+},
+{
+  "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Pave1",
+  "IfcExportAs": "IfcCourse.PAVEMENT",
+  "Export": true
+},
+{
+  "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Pave2",
+  "IfcExportAs": "IfcCourse.PAVEMENT",
+  "Export": true
+},
+{
+  "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Curb",
+  "IfcExportAs": "IfcCourse.CURB",
+  "Export": true
+}
+,
+    {
+      "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Top_Datum_Daylight_Cut",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Top_Datum_Daylight_Daylight_Cut",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Top_Datum_Daylight_Fill",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "SOLIDS\\ -\\ T1_0-1040\\ -\\ Top_Daylight_Daylight_Fill_Datum",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-BLDG-OTLN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-BMRK",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-HCPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-LINE-DIRC",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-LINE-NETW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-LINE-SHOT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-NODE-KNOW",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-NODE-SHOT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-NODE-UNKN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-TRAV",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-TRAV-ERRO",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-CTRL-VCPT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-BNDY",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-BORE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-NGAS",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-POLE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-SIGN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-SSWR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-STRM",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-TEXT",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-TREE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-NODE-WATR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-ROAD-CNTR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-ROAD-CURB",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SITE-FNCE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SITE-SCAN",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SITE-VEGE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SURV-FIGR",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SURV-LABL",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SURV-LINE",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "V-SURV-NTWK",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapAlignmentStyleName": [
+    {
+      "Name": "_OCULTO",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ de\\ diseño",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ de\\ trazado",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ de\\ trazado\\ -\\ discontinuo",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Existing",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Intersection\\ Basic",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Layout",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Offsets",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Proposed",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ Hidráulico\\ -\\ NO\\ IMPRIMIBLE",
+      "IfcExportAs": "IfcAlignment",
+      "Export": true
+    }
+  ],
+  "MapAlignmentLabelStyleName": [],
+  "MapAssemblyStyleName": [
+    {
+      "Name": "Basic",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapCorridorStyleName": [
+    {
+      "Name": "Basic",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapBaselineName": [
+    {
+      "Name": "BL_VIA\\ SANTIAGO_PTE\\ GOMEZ",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapBaselineRegionName": [],
+  "MapBridgeStructureComponents": [
+    {
+      "BridgeStructureType": "Abutment",
+      "IfcExportAsComposition": "IfcBridgePart.SUBSTRUCTURE",
+      "CompositionName": "Substructure",
+      "IfcExportAsSubComposition": "IfcBridgePart.ABUTMENT",
+      "IfcExportAs": "IfcWall.Abutment",
+      "Export": true
+    },
+    {
+      "BridgeStructureType": "Deck",
+      "IfcExportAsComposition": "IfcBridgePart.SUPERSTRUCTURE",
+      "CompositionName": "Superstructure",
+      "IfcExportAsSubComposition": "",
+      "IfcExportAs": "IfcSlab.Deck",
+      "Export": true
+    },
+    {
+      "BridgeStructureType": "Foundation",
+      "IfcExportAsComposition": "",
+      "CompositionName": "",
+      "IfcExportAsSubComposition": "",
+      "IfcExportAs": "IfcFooting",
+      "Export": true
+    },
+    {
+      "BridgeStructureType": "Girder",
+      "IfcExportAsComposition": "IfcBridgePart.SUPERSTRUCTURE",
+      "CompositionName": "Superstructure",
+      "IfcExportAsSubComposition": "",
+      "IfcExportAs": "IfcBeam.GIRDER",
+      "Export": true
+    },
+    {
+      "BridgeStructureType": "Pier",
+      "IfcExportAsComposition": "IfcBridgePart.SUBSTRUCTURE",
+      "CompositionName": "Substructure",
+      "IfcExportAsSubComposition": "IfcBridgePart.PIER",
+      "IfcExportAs": "IfcColumn.PIERSTEM",
+      "Export": true
+    }
+  ],
+  "MapBridgeStructureGenericComponents": [
+    {
+      "Name": "Bearing.*",
+      "IfcExportAsComposition": "IfcBridgePart.SUBSTRUCTURE",
+      "CompositionName": "Substructure",
+      "IfcExportAsSubComposition": "",
+      "IfcExportAs": "IfcBearing",
+      "Export": true
+    }
+  ],
+  "MapFeatureLineStyleName": [
+    {
+      "Name": "_Invisible",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Basic\\ Feature\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Borde\\ Carril",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Borde\\ de\\ plataforma",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Center\\ Rail\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Crown",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Curb\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Daylight",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Daylight\\ -\\ Subgrade",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Daylight\\ Line\\ -\\ Cut",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Daylight\\ Line\\ -\\ Fill",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Ditch",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Edge\\ of\\ Paved\\ Shoulder",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Edge\\ of\\ Travel\\ Way",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Edge\\ of\\ Unpaved\\ Shoulder",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Flowline",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Grading",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Hinge\\ -\\ Cut\\ Slope",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Hinge\\ -\\ Fill\\ Slope",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Hinge\\ -\\ Top\\ Slope",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Lane\\ Break",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ SubLayer\\ -\\ Feature\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Corridor\\ Top\\ Soil\\ -\\ Feature\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Grading\\ Daylight",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Grading\\ Ditch",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Interseccion",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Platform\\ Edge",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Top\\ Rail\\ Line",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    }
+  ],
+  "MapLinkStyleName": [
+    {
+      "Name": "_Invisible",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "_No\\ Display",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "_SinTrazar",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Barrier",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Base",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Basic",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Curb\\ -\\ Top",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Datum",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Daylight",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Daylight_Cut",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Daylight_Fill",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Grass\\ Areas",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Gravel",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Lot",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Mill",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave1",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave2",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Sidewalk",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Sin\\ código",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Strip",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "SubBase",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Top",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Uncoded",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapPipeStyleName": [
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Double\\ Line\\ \\(Sanitary\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Double\\ Line\\ \\(Storm\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ de\\ diseño",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Línea\\ doble",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Linea\\ simple",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Pipe\\ Crossing\\ Pipe\\ \\(Sanitary\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Pipe\\ Crossing\\ Pipe\\ \\(Storm\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Single\\ Line\\ \\(Sanitary\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Single\\ Line\\ \\(Storm\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ abastecimiento",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ saneamiento",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Tubería\\ transversal\\ al\\ perfil",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    }
+  ],
+  "MapPointStyleName": [
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Benchmark",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Bound",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Catch\\ Basin",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Drill\\ Hole",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Gas\\ Valve",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Guy\\ Pole",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Horizontal\\ Curve\\ Point",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Hydrant\\ \\(existing\\)",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Hydrant\\ \\(proposed\\)",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Iron\\ Pin",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Nuevo\\ estilo\\ de\\ punto",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Sanitary\\ Sewer\\ Manhole",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Shrub\\ -\\ 1\\.5m",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Sign\\ \\(single\\ pole\\)",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "STA",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Storm\\ Sewer\\ Manhole",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Test\\ Pit",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Tree",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Utility\\ Pole",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Vertical\\ Curve\\ Point",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Water\\ Shutoff",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Water\\ Valve",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    },
+    {
+      "Name": "Well",
+      "IfcExportAs": "IfcAnnotation",
+      "Export": true
+    }
+  ],
+  "MapPressureAppurtenanceStyleName": [
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcDistributionFlowElement",
+      "Export": true
+    },
+    {
+      "Name": "Valve",
+      "IfcExportAs": "IfcDistributionFlowElement",
+      "Export": true
+    },
+    {
+      "Name": "Válvula",
+      "IfcExportAs": "IfcDistributionFlowElement",
+      "Export": true
+    }
+  ],
+  "MapPressureFittingStyleName": [
+    {
+      "Name": "Center\\ Line",
+      "IfcExportAs": "IfcPipeFitting",
+      "Export": true
+    },
+    {
+      "Name": "Centerline\\ \\(Water\\)",
+      "IfcExportAs": "IfcPipeFitting",
+      "Export": true
+    },
+    {
+      "Name": "Fitting",
+      "IfcExportAs": "IfcPipeFitting",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcPipeFitting",
+      "Export": true
+    }
+  ],
+  "MapPressurePipeStyleName": [
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Centerline\\ \\(Water\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Crossing\\ Pipe\\ \\(Water\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Double\\ Line\\ \\(Water\\)",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcPipeSegment",
+      "Export": true
+    }
+  ],
+  "MapProfileStyleName": [
+    {
+      "Name": "_OCULTO",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Design\\ Profile",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ de\\ diseño",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Existing\\ Ground\\ Profile",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Intersection\\ Basic",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Layout",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Left\\ Sample\\ Profile",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Rasante",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Right\\ Sample\\ Profile",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Terreno\\ desfase",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    },
+    {
+      "Name": "Terreno\\ existente",
+      "IfcExportAs": "IfcAlignmentVertical",
+      "Export": true
+    }
+  ],
+  "MapShapeStyleName": [
+    {
+      "Name": "_Invisible",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "_No\\ Shading",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "_SinTrazar",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Ballast",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Barrier",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Base",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Basic",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Bridge",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Concrete\\ Hatch",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Curb",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Cut\\ Material",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Desmonte",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Fill\\ Material",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Girder",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Grass",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Grass\\ Hatch",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Gravel",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Milling",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Multiple\\ Boundary\\ Material",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "No\\ Display",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Overlay",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave\\ Hatch",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave1",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pave2",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Pavimento",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Rail",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Sidewalk",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Strip\\ Hatch",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "SubBase",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Terraplén",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Uncoded",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ],
+  "MapStructureStyleName": [
+    {
+      "Name": "Basic",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Catch\\ Basin",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Estilo\\ diseño",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Flared\\ End\\ Section",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Headwall",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Null",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Sanitary\\ Sewer\\ Manhole",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Storm\\ Sewer\\ Manhole",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ Desagüe",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ Saneamiento",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ Válvula",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    },
+    {
+      "Name": "Trazado\\ Ventosa",
+      "IfcExportAs": "IfcDistributionChamberElement",
+      "Export": true
+    }
+  ],
+  "MapSurfaceStyleName": [
+    {
+      "Name": "_No\\ Display",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "_OCULTO",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Básico",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Border\\ Only",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contorno\\ sólo",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 0\\.2m\\ 1m\\ Finales",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 0\\.5m\\ and\\ 2m\\ \\(Background\\)\\ \\[copia]",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 1m\\ and\\ 5m\\ \\(Background\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 1m\\ and\\ 5m\\ \\(Background\\)\\ \\[copia]",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 1m\\ and\\ 5m\\ \\(Design\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 2m\\ and\\ 10m\\ \\(Background\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 2m\\ and\\ 10m\\ \\(Design\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 5m\\ and\\ 25m\\ \\(Background\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ 5m\\ and\\ 25m\\ \\(Design\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Contours\\ and\\ Triangles",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Curvas\\ \\(0\\.25-1\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Curvas\\ \\(1-5\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Curvas\\ de\\ fondo\\ \\(0\\.5-2\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "CURVAS\\ DELGADAS\\ @\\ 0\\.50\\ M\\ MAESTRA\\ @\\ 2\\ M",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "CURVAS\\ SECUNDARIAS\\ @\\ 0\\.50\\ MAESTRAS\\ @\\ 2\\ M",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Cut\\ and\\ Fill\\ Banding\\ 0\\.5m\\ Interval\\ \\(2D\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Elevation\\ Banding\\ \\(2D\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Elevation\\ Banding\\ 10m\\ Interval\\ \\(2D\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Elevation\\ Banding\\ 1m\\ Interval\\ \\(2D\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Exposición",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Grade",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Grid",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Hipsometría",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Pendiente\\ -\\ flechas",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Slope\\ Banding\\ \\(2D\\)",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Standard",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Triángulos",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    },
+    {
+      "Name": "Triángulos\\ verdes",
+      "IfcExportAs": "IfcGeographicElement.TERRAIN",
+      "Export": true
+    }
+  ],
+  "MapSubassemblyName": [],
+  "MapShapeCode": [],
+  "MapLinkCode": [],
+  "MapPointCode": [],
+  "MapFolderName": [
+    {
+      "Name": "Centerline\\ Alignments",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Curb\\ Return\\ Alignments",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Rail\\ Alignments",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Offset\\ Alignments",
+      "IfcExportAs": "",
+      "Export": true
+    },
+    {
+      "Name": "Miscellaneous\\ Alignments",
+      "IfcExportAs": "",
+      "Export": true
+    }
+  ]
+}
